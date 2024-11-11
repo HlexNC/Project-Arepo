@@ -7,7 +7,7 @@ from data.data_analysis import DataAnalysis
 def main():
     st.set_page_config(page_title="Project Apero", layout="wide")
 
-    st.title("Project Apero (Project Apero)")
+    st.title("Project Apero")
 
     # Sidebar for navigation
     menu = ["Home", "Data Analysis", "Recommendations", "Chatbot"]
