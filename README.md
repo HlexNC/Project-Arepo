@@ -1,4 +1,4 @@
-![Project Apero Banner](./banner.png)
+![Project Apero Banner](./docs/ASP_Banner.png)
 
 # Project Apero
 
