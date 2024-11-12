@@ -8,7 +8,7 @@ https://mygit.th-deg.de/username/assistance-systems-project
 
 https://mygit.th-deg.de/username/assistance-systems-project/wiki
 
-![Project Apero Banner](./docs/ASP_Banner.png)
+![Project Apero Banner](./docs/.ASP_Banner.png)
 
 ## Project description
 
