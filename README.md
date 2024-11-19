@@ -4,9 +4,9 @@ Lastname2, Firstname2, 123456
 
 Project Apero
 
-https://mygit.th-deg.de/username/assistance-systems-project
+https://github.com/THD-AI-2023/AIN-B-3-Assistant-Systems
 
-https://mygit.th-deg.de/username/assistance-systems-project/wiki
+https://github.com/THD-AI-2023/AIN-B-3-Assistant-Systems/-/wikis/home
 
 ![Project Apero Banner](./docs/.ASP_Banner.png)
 
@@ -26,7 +26,7 @@ https://mygit.th-deg.de/username/assistance-systems-project/wiki
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/THD-AI-2023/AIN-B-3-Assistant-Systems.git
-    cd AIN-B-3-Assistant-Systems
+    cd Assistant-Systems-Project
     ```
 
 <!--
@@ -164,8 +164,6 @@ A screencast demonstrating the key functionalities of the **Project Apero**. The
   
 - **Chatbot Functionalities:**
   - Exhibits interactions with the Rasa chatbot, including handling user queries, providing recommendations, and managing conversations.
-
-https://github.com/user-attachments/assets/79420d34-a249-499e-8bb3-339df89907cc
 
 [Watch the Demo Video](./docs/.ASP_Demo.mp4)
 
@@ -449,4 +447,4 @@ This project is licensed under the [GNU GENERAL PUBLIC LICENSE](./LICENSE).
 
 ## Contact
 
-For any inquiries or support, please open an issue in the [MyGit Repository](https://mygit.th-deg.de/username/assistance-systems-project).
+For any inquiries or support, please open an issue in the [MyGit Repository](https://github.com/THD-AI-2023/AIN-B-3-Assistant-Systems).
