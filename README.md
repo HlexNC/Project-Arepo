@@ -1,6 +1,6 @@
-Lastname1, Firstname1, 123456
+Firstname1, Lastname1, 12345
 
-Lastname2, Firstname2, 123456
+Firstname2, Lastname2, 12345
 
 Project Apero
 
@@ -289,7 +289,7 @@ Based on the above assessment, incorporating a chatbot aligns perfectly with the
 
 The **Project Apero** was developed collaboratively by two team members, each contributing distinct components to ensure a comprehensive and robust application.
 
-### **Student 1: [Firstname Lastname, Mat-No: 123456]**
+### **Student 1: [Alexander Rudaev, Mat-No: 22303397]**
 
 1. **Graphical User Interface (GUI) / Visualization**:
     - Developed the Streamlit-based multi-page web application interface.
@@ -306,7 +306,7 @@ The **Project Apero** was developed collaboratively by two team members, each co
     - Ensured that dialogues effectively cover use cases such as data analysis requests and health recommendations.
     - Collaborated on refining chatbot responses to align with user intents.
 
-### **Student 2: [Firstname Lastname, Mat-No: 654321]**
+### **Student 2: [Kazi Shafwanur Rahman, Mat-No: 22305619]**
 
 4. **Strategies for Outliers and Fake Data**:
     - Developed algorithms for identifying and managing outliers within the dataset.
