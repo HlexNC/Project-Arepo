@@ -21,12 +21,19 @@
 
 ## Introduction
 
-**Project Apero** is an advanced recommendation system designed to enhance user experience by providing personalized suggestions based on user behavior and preferences. Leveraging modern technologies such as Streamlit for the frontend and Rasa for chatbot integration, this project aims to deliver an intuitive and efficient system for diverse applications.
+**Project Apero** is an advanced recommendation system using data science practices to detect the probability of stroke in a patient. Using a large medical dataset, our models predict whether or not a patient may have a stroke in the future. 
+
+### Data Visualisation using Streamlit
+![Data Visualisation using Streamlit](docs/visualisation.png)
+### One of the Predictive Models
+![Predictive Model](docs/predictive-model.png)
+### Prediction
+![Prediction](docs/prediction.png)
 
 ## Features
 
 - **Interactive Web Interface:** Built with Streamlit, offering a seamless and responsive user experience.
-- **Personalized Recommendations:** Utilizes Scikit-Learn algorithms to provide tailored suggestions.
+- **Personalized Recommendations:** Utilizes Scikit-Learn algorithms to make predictions.
 - **Data Analysis & Visualization:** Employs Pandas and Matplotlib for insightful data analysis and visualization.
 - **Chatbot Support:** Integrates a Rasa-powered chatbot to assist users and enhance interaction.
 - **Robust Data Handling:** Implements strategies for outlier detection and augmentation with realistic fake data.
