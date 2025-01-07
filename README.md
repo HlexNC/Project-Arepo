@@ -8,7 +8,7 @@ https://github.com/THD-AI-2023/AIN-B-3-Assistant-Systems
 
 https://github.com/THD-AI-2023/AIN-B-3-Assistant-Systems/-/wikis/home
 
-![Project Apero Banner](./docs/.ASP_Banner.png)
+![Project Apero Banner](./docs/img/ASP_Banner.png)
 
 ## Project Description
 
@@ -167,7 +167,7 @@ A screencast demonstrating the key functionalities of the **Project Apero**. The
 - **Chatbot Functionalities:**
   - Exhibits interactions with the Rasa chatbot, including handling user queries, providing recommendations, and managing conversations.
 
-[Watch the Demo Video](./docs/.ASP_Demo.mp4)
+[Watch the Demo Video](./docs/img/ASP_Demo.mp4)
 
 ## Implementation of the Requests
 
