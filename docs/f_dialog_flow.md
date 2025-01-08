@@ -1,4 +1,4 @@
-![Project Apero Banner](./.ASP_Banner.png)
+![Project Apero Banner](./img/ASP_Banner.png)
 
 # **High-Level Dialog Flow for Chatbot Use Case**
 
@@ -8,7 +8,7 @@ Understanding the conversational flow is essential for designing an effective ch
 
 - **User Initiates Conversation:**
   - **Trigger:** User navigates to the Chatbot page and sends a greeting (e.g., "Hi", "Hello").
-  
+
 ## **2. Greeting and Intent Recognition**
 
 - **Chatbot Responds:**
@@ -108,7 +108,7 @@ Understanding the conversational flow is essential for designing an effective ch
 
 Below is a simplified diagram illustrating the high-level dialog flow:
 
-![Dialog Flow Diagram](./f_dialog_flow.svg)
+![Dialog Flow Diagram](./img/f_dialog_flow.svg)
 
 ---
 
