@@ -8,7 +8,7 @@ https://github.com/THD-AI-2023/AIN-B-3-Assistant-Systems
 
 https://github.com/THD-AI-2023/AIN-B-3-Assistant-Systems/-/wikis/home
 
-[![Project Apero Banner](./docs/.ASP_Banner.png)](https://github.com/THD-AI-2023/AIN-B-3-Assistant-Systems)
+[![Project Apero Banner](./docs/img/ASP_Banner.png)](https://github.com/THD-AI-2023/AIN-B-3-Assistant-Systems)
 
 ## Project Description
 
