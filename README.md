@@ -47,6 +47,7 @@ Project Apero is a comprehensive web application—originally developed as a uni
   - [Chatbot Assistance](#chatbot-assistance)
 - [Project Structure](#project-structure)
 - [Disclaimer](#disclaimer)
+- [Repository Visualization](#repository-visualization)
 - [License](#license)
 - [Contact](#contact)
 
@@ -246,6 +247,16 @@ Project-Arepo/
 > **Project Apero is not a substitute for professional medical advice, diagnosis, or treatment.**  
 > The stroke risk assessments and recommendations are for **educational and research** purposes only. Always seek the advice of qualified healthcare professionals for any medical concerns.  
 > Use of this application is entirely at your own risk, and the developers assume **no liability** for any actions taken based on its output.
+
+---
+
+## Repository Visualization
+
+Below is an automatically generated repository structure diagram. The diagram is updated whenever changes are pushed to the main branch:
+
+<p align="center">
+  <img src="./docs/img/repo_diagram.svg" alt="Repository Visualization" width="800"/>
+</p>
 
 ---
 
