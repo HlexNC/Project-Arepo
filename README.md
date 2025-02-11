@@ -33,6 +33,7 @@ Project Apero is a comprehensive web application—originally developed as a uni
 ## Table of Contents
 
 - [Project Description](#project-description)
+- [Screenshots](#screenshots)
 - [Key Features](#key-features)
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
@@ -65,6 +66,12 @@ The application is built using:
 
 > **Why "Apero"?**  
 > The project name is derived from a playful acronym referencing a healthy approach to “Assessing Personal Event Risks Online,” aiming to make preventative health measures more approachable.
+
+---
+
+## Screenshots
+
+<img src="./docs/img/ASP_Screenshots.png" alt="Data Analysis Page and Chatbot Interface"/>
 
 ---
 
