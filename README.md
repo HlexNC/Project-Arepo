@@ -10,6 +10,12 @@
 </h1>
 
 <p align="center">
+  <a href="https://github.com/codespaces/new?repo=HlexNC/Project-Arepo&machine=standardLinux32gb&devcontainer_path=.devcontainer/devcontainer.json">
+    <img src="https://github.com/codespaces/badge.svg" alt="Open in GitHub Codespaces">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/HlexNC/Project-Arepo">
     <img src="https://img.shields.io/badge/GitHub-Project_Apero-blue?style=flat-square&logo=github" alt="GitHub Badge">
   </a>
