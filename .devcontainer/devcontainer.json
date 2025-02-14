@@ -13,7 +13,7 @@
         ]
       }
     },
-    "onCreateCommand": "bash .devcontainer/setup.sh",
+    "postCreateCommand": "bash .devcontainer/setup.sh",
     "forwardPorts": [8501]
   }
   
