@@ -10,7 +10,9 @@
 </h1>
 
 <p align="center">
-  [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=HlexNC/Project-Arepo&machine=standardLinux32gb&devcontainer_path=.devcontainer/devcontainer.json)
+  <a href="https://github.com/codespaces/new?repo=HlexNC/Project-Arepo&machine=standardLinux32gb&devcontainer_path=.devcontainer/devcontainer.json">
+    <img src="https://github.com/codespaces/badge.svg" alt="Open in GitHub Codespaces">
+  </a>
 </p>
 
 <p align="center">
